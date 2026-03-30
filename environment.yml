@@ -1,0 +1,21 @@
+name: math-da
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - sympy
+  - pandas
+  - matplotlib
+  - seaborn
+  - plotly
+  - statsmodels
+  - scikit-learn
+  - jupyterlab
+  - ipywidgets
+  - pip
+  - pip:
+    - pingouin
+    - nbformat

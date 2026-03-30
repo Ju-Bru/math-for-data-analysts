@@ -1,0 +1,33 @@
+name: Notebooks testen
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test-notebooks:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Python einrichten
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+    
+    - name: Abhängigkeiten installieren
+      run: |
+        pip install --upgrade pip
+        pip install -r requirements.txt
+        pip install nbconvert pytest
+    
+    - name: Notebooks ausführen
+      run: |
+        find . -name "*.ipynb" \
+          ! -path "*/solutions/*" \
+          -exec jupyter nbconvert --to notebook --execute {} \;
+      continue-on-error: false
