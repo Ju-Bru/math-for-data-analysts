@@ -17,8 +17,10 @@ Fünf Tage, jeden Tag ein Thema: vormittags das Skript (PDF), nachmittags ein Nu
 - Schulmathematik der Mittelstufe
 - Python-Grundkenntnisse
 
-*Material erstellt von Julia Brutskaya | FIDP Daten- und Prozessanalyse*
-
 ## Empfohlene Ressourcen
-- Khan Academy: Precalculus (kostenlos)
-- *Mathematik für Ingenieure* – Papula, Bd. 1
+
+- *Trainingskurs Mathematik – Vorbereitung auf höhere berufsbildende Schulen* (Cornelsen) – Übungsaufgaben zu den Skripten
+- [inf-schule.de](https://www.inf-schule.de) – kostenlose Erklärungen und Aufgaben
+- [NumPy: the absolute basics for beginners](https://numpy.org/doc/stable/user/absolute_beginners.html) – offizielle Einführung (englisch)
+
+*Material erstellt von Julia Brutskaya | FIDP Daten- und Prozessanalyse*
