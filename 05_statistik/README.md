@@ -11,6 +11,8 @@ Ordner `deskriptive_statistik`. Schauplatz ist die erfundene Datenwald-Akademie:
 | 3 | `skripte/3_Streuungsmasse_Quantile.pdf` | `3_Pandas_CSV_Excel.ipynb` |
 | 4 | `skripte/4_Balkendiagramm_Histogramm.pdf` | `4_Matplotlib_Balkendiagramm_Histogramm.ipynb` |
 | 5 | `skripte/5_Boxplot_Streudiagramm.pdf` | `5_Matplotlib_Boxplot_Streudiagramm.ipynb` |
+| 6 | `skripte/6_Korrelation.pdf` | `6_Pandas_Korrelation.ipynb` |
+| 7 | `skripte/7_Datenqualitaet_Kennzahlen_Bericht.pdf` | `7_Pandas_Cleaning_Merge_Pivot.ipynb` |
 
 Die Notebooks erwarten die Unterordner `csv & excel Dateien` und `png Dateien` direkt neben sich.
 
