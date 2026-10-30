@@ -12,9 +12,11 @@ Fünf Tage, folgt im Kurs auf [05 – Statistik](../05_statistik) (deskriptive S
 
 ## Präsentationen
 
-- `praesentationen/Praesi_Varianz_Standardabweichung.pdf`
-- `praesentationen/Praesi_Hypergeometrische_Verteilung.pdf`
-- `praesentationen/Praesi_Quantile_von_Verteilungen.pdf`
+## Präsentationen
+
+- `skripte/Praesi_Varianz_Standardabweichung.pdf`
+- `skripte/Praesi_Hypergeometrische_Verteilung.pdf`
+- `skripte/Praesi_Quantile_von_Verteilungen.pdf`
 
 ## Quiz
 
